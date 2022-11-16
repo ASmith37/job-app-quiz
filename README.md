@@ -1,5 +1,9 @@
 # job-app-quiz
 
+This program was created to solve a puzzle hidden in the HTML of a trading firm's website. This program solved it, and the secret message was an email address to which I could send a message to contact a recruiter for that company.
+
+# Notes
+
 The site *REDACTED*.com/quiz has a list of numbers.
 
 Hidden in the HTML is a Javascript function to encode a string
